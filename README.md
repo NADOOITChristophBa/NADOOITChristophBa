@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to be a better person. Starting with myself. Working on my mental health and my physical health. I am working on building a company that will help others.
 
 - 💞️ I’m looking to collaborate on building a new python framework for structuring software projects.
-- 📫 You can reach me via email: chrisotph.backhaus@nadooit.de
+- 📫 You can reach me via email: christoph.backhaus@nadooit.de
 
 <!---
 NADOOITChristophBa/NADOOITChristophBa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
