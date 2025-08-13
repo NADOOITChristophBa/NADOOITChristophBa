@@ -6,5 +6,5 @@
 
 ## Legal Information:
 This profile includes links to external websites. By clicking on any of these external links, you acknowledge that the content of these pages is the responsibility of their respective operators.  
-Please refer to our [Impressum](https://wirrettendeinezeit.de/impressum) for more legal details.  
+Please refer to our [Impressum](https://nadooit.de/impressum) for more legal details.  
 External links are marked with the symbol: 🔗  
